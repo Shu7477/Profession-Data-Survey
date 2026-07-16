@@ -1,154 +1,141 @@
 # 📊 Data Professional Survey Dashboard (Power BI)
 
-## 📌 Overview
-
-This project is an interactive **Power BI dashboard** built using a survey dataset of professionals working in the data industry. The dashboard provides insights into salaries, programming language preferences, work-life satisfaction, salary satisfaction, demographics, and industry distribution.
-
-The goal of this project is to demonstrate how raw survey data can be transformed into meaningful business insights using Power BI's visualization and data modeling capabilities.
+An interactive **Power BI dashboard** built using a survey dataset of data professionals. This project transforms raw survey data into meaningful visual insights about salaries, programming language preferences, demographics, job satisfaction, and industry trends.
 
 ---
 
 ## 🚀 Dashboard Preview
 
-> Replace the image path below with your own screenshot if necessary.
+<p align="center">
+  <img src="./Screenshot%202026-07-16%20231230.png" alt="Data Professional Survey Dashboard" width="100%">
+</p>
 
-![Dashboard Preview](Screenshot 2026-07-16 231230.png)
+---
+
+## 📌 Project Overview
+
+This dashboard analyzes responses collected from data professionals across different countries and industries. It provides a comprehensive overview of the current landscape of data-related careers, allowing users to explore salary trends, programming language preferences, work-life balance, and other key metrics through interactive visualizations.
 
 ---
 
 ## 📈 Key Insights
 
-- 💰 **Average Salary by Job Title**
-  - Compare average salaries across different data-related roles such as:
-    - Data Scientist
-    - Data Engineer
-    - Data Architect
-    - Data Analyst
-    - Database Developer
-    - Students / Job Seekers
-
-- 💻 **Favorite Programming Languages**
-  - Analyze the most preferred programming languages among different job roles.
-  - Python dominates the survey responses, followed by R and other languages.
-
-- 👥 **Survey Demographics**
-  - Total Survey Participants
-  - Average Age of Participants
-  - Gender Distribution
-
-- 😊 **Satisfaction Metrics**
-  - Work-Life Balance Rating
-  - Salary Satisfaction Rating
-
-- 🌍 **Geographical Distribution**
-  - Country-wise distribution of survey participants using a treemap.
-
-- 🏢 **Industry Distribution**
-  - Breakdown of respondents across industries such as:
-    - Tech
-    - Finance
-    - Healthcare
-    - Education
-    - Telecommunications
-    - Others
-
----
-
-## 🛠 Tools Used
-
-- **Power BI Desktop**
-- Power Query
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Interactive Visualizations
+- 💰 Compare **average salaries** across different data professions.
+- 💻 Discover the **most popular programming languages** among various job roles.
+- 👥 View **survey demographics**, including total respondents, average age, and gender distribution.
+- 😊 Analyze **work-life balance** and **salary satisfaction** ratings.
+- 🌍 Explore the **country-wise distribution** of survey participants.
+- 🏢 Understand which **industries** employ the most data professionals.
 
 ---
 
 ## 📊 Dashboard Features
 
-- Interactive filtering
-- Multiple chart types
+- Interactive Power BI dashboard
 - KPI Cards
-- Treemap Visualization
-- Gauge Charts
-- Donut & Pie Charts
 - Bar Charts
-- Clean and responsive dashboard layout
+- Stacked Column Chart
+- Donut Charts
+- Pie Chart
+- Treemap
+- Gauge Charts
+- Interactive Filters
+- Clean and user-friendly layout
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI Desktop**
+- **Power Query**
+- **DAX (Data Analysis Expressions)**
+- Data Modeling
+- Data Visualization
 
 ---
 
 ## 📂 Dataset
 
-The dashboard is built using a survey dataset containing information about data professionals, including:
+The dataset contains survey responses from professionals working in the data industry, including information such as:
 
 - Job Title
+- Average Salary
 - Country
 - Age
 - Gender
 - Industry
-- Average Salary
 - Favorite Programming Language
 - Work-Life Balance Rating
 - Salary Satisfaction Rating
 
 ---
 
-## 📌 Business Questions Answered
+## ❓ Business Questions Answered
 
-- Which data profession earns the highest average salary?
-- Which programming language is most popular among data professionals?
+- Which data profession has the highest average salary?
+- What programming language is preferred by data professionals?
 - What is the average age of survey participants?
-- How satisfied are professionals with their salary?
+- How satisfied are professionals with their salaries?
 - How satisfied are professionals with their work-life balance?
-- Which countries contributed the most survey responses?
-- Which industries employ the most data professionals?
-
----
-
-## 📷 Dashboard Screenshot
-
-<img src="images/dashboard.png" width="100%">
+- Which countries contributed the highest number of survey responses?
+- Which industries employ the most survey participants?
 
 ---
 
 ## 📁 Repository Structure
 
-```
+```text
 Data-Professional-Survey-Dashboard/
 │
-├── Dashboard.pbix
-├── Dataset/
-│   └── Data_Professional_Survey.csv
-├── Images/
-│   └── dashboard.png
-├── README.md
-└── LICENSE
+├── Professional Data survey.pbit
+├── Screenshot 2026-07-16 231230.png
+└── README.md
 ```
 
 ---
 
 ## 🎯 Skills Demonstrated
 
-- Data Cleaning with Power Query
+- Data Cleaning
+- Data Transformation
 - Data Modeling
-- DAX Measures
+- DAX Calculations
 - Dashboard Design
-- Data Visualization
 - Business Intelligence
-- KPI Reporting
+- Data Visualization
 - Analytical Storytelling
 
 ---
 
-## 📚 Learning Outcome
+## 📚 Learning Outcomes
 
-Through this project, I gained hands-on experience in:
+Through this project, I gained practical experience in:
 
-- Importing and transforming datasets
-- Building relationships and data models
-- Creating calculated columns and DAX measures
-- Designing interactive dashboards
-- Presenting survey insights through effective visualizations
+- Importing and transforming survey data using Power Query
+- Creating data models and relationships
+- Writing DAX measures and calculations
+- Designing interactive dashboards in Power BI
+- Presenting business insights using effective visualizations
+
+---
+
+## 📌 Dashboard Highlights
+
+✔ Average Salary by Job Title
+
+✔ Favorite Programming Languages
+
+✔ Country-wise Survey Distribution
+
+✔ Gender Distribution
+
+✔ Industry Distribution
+
+✔ Work-Life Balance Score
+
+✔ Salary Satisfaction Score
+
+✔ Survey Demographics
 
 ---
 
@@ -156,14 +143,14 @@ Through this project, I gained hands-on experience in:
 
 **Kumar Shivam**
 
-Electronics & Instrumentation Engineering  
+B.Tech in Electronics & Instrumentation Engineering  
 National Institute of Technology Silchar
 
-**Connect with me**
-
-- LinkedIn: *Add your profile link*
-- GitHub: *Add your GitHub profile link*
+- GitHub: https://github.com/Shu7477
+- LinkedIn: *Add your LinkedIn profile here*
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a star!
+## ⭐ Support
+
+If you found this project useful, consider giving the repository a **⭐ Star** to support my work!
