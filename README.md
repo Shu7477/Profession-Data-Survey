@@ -12,7 +12,7 @@ The goal of this project is to demonstrate how raw survey data can be transforme
 
 > Replace the image path below with your own screenshot if necessary.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Screenshot 2026-07-16 231230.png)
 
 ---
 
